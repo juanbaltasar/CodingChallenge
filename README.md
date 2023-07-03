@@ -1,3 +1,6 @@
+# Comentarios
+Se realizo un desarrollo que permite mas facilidad a la hora de implementar nuevas formas y lenguajes, sobre todo ya que los lenguajes se encuentran en un archivo de recurso. Se implemento la forma trapecio pero por una cuestion de tiempos no se logro implementar un nuevo iddioma, el cual de todas maneras hubiese sido simple gracias a la nueva implementacion que permite llenar con el identificador del nuevo idioma(el 3) el archivo de recursos. 
+
 
 # InvertirOnline.com Coding Challenge
 
